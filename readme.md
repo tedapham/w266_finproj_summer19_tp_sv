@@ -36,5 +36,6 @@ Improve these accuracy
 
 ## sources to look into
 SemEval-2018 Task Semantic Textual Similarity Evaluation
+http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
 
 
