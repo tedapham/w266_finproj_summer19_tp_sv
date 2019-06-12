@@ -24,6 +24,7 @@ Natural Language Inference Tasks have these datasets:
 ## Areas for improvement: 
 1.  SICK DATA SET : transfered learning from SNLI MultiNI 59.1
 1.  Quora Data: 89.94 (interaction space) (graded on loss)
+1.  Fake News Datasets 2017 and 2019
 
 ## Goals
 Improve these accuracy
